@@ -66,3 +66,11 @@ O podcast foi criado seguindo uma esteira de produção que combina estratégia 
 Feito por Paulo G. Werneck.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgw-script/)
+
+---
+
+## 📜 Licença
+
+Este projeto é distribuído sob a **Licença MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+
+*Nota sobre o conteúdo gerado por IA: As partes deste projeto, como o roteiro, a arte e o áudio, foram geradas com o auxílio de ferramentas de Inteligência Artificial sob a direção criativa do autor. A licença se aplica à compilação do projeto, aos prompts originais e a todas as outras contribuições de autoria humana.*
