@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="assets/podcast_cover.png" width="300" alt="Capa do Podcast Fortaleza Digital">
-</p>
-
 <h1 align="center">
   Podcast - Cyber: Fortaleza Digital
 </h1>
+
+<p align="center">
+  <img src="assets/podcast_cover.png" width="300" alt="Capa do Podcast Fortaleza Digital">
+</p>
 
 <p align="center">
   <strong>A Guerra Invisível pelo Futuro Financeiro</strong>
