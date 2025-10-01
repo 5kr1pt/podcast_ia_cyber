@@ -17,6 +17,8 @@
 </p>
 
 ---
+## 🎧 Podcast
+[![Ouvir Podcast](https://img.shields.io/badge/🎧_Ouvir_Podcast-blue?style=for-the-badge)](./output/podcast_editado.mp3)
 
 ## 📝 Sobre o Projeto
 
