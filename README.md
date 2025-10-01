@@ -66,6 +66,7 @@ O podcast foi criado seguindo uma esteira de produção que combina estratégia 
 Feito por Paulo G. Werneck.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgw-script/)
+[![Portifólio](https://img.shields.io/badge/Portifólio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://5kr1pt.github.io/krpt)
 
 ---
 
